@@ -51,8 +51,23 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![image](https://github.com/user-attachments/assets/b368d15a-4ce7-48cc-aadf-5567bfbcde6d)
 
+![image](https://github.com/user-attachments/assets/6b4a62c6-7ee2-4e21-8627-9a6211448fd7)
 
+![image](https://github.com/user-attachments/assets/c9b83269-397b-423c-8caf-3c8bd568521f)
 
+![image](https://github.com/user-attachments/assets/7c86e622-99bc-4897-8fa4-d28bc757477f)
+
+![image](https://github.com/user-attachments/assets/163e1fa6-3298-48bd-95c3-e698c8973c56)
+
+![image](https://github.com/user-attachments/assets/59ff54b1-3a9a-4429-8293-06d16e5721c3)
+
+![image](https://github.com/user-attachments/assets/7baa6f66-05f9-4c5a-9171-cd041263c8f9)
+
+![image](https://github.com/user-attachments/assets/b767793c-76f5-45d5-a647-1f25d493fa63)
+
+![image](https://github.com/user-attachments/assets/43cd7069-48e0-445d-b471-33f0f06fdc11)
+
+![image](https://github.com/user-attachments/assets/d0106b3f-c3c0-4066-b541-68fdf192b65e)
 
 
 
