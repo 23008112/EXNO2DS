@@ -69,9 +69,17 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![image](https://github.com/user-attachments/assets/d0106b3f-c3c0-4066-b541-68fdf192b65e)
 
+![image](https://github.com/user-attachments/assets/420ca0d3-c069-4e81-a9de-b989d53de795)
 
+![image](https://github.com/user-attachments/assets/a7d197f6-f733-4459-a229-23983ff7ee68)
 
+![image](https://github.com/user-attachments/assets/031b5c02-ded4-4bcd-9a8d-bb95d760e0a2)
 
+![image](https://github.com/user-attachments/assets/32a98b26-6fbd-4808-87c0-42a755b3c1cf)
+
+![image](https://github.com/user-attachments/assets/a930c203-24d0-43f0-a7aa-a4c09733f5a4)
+
+![image](https://github.com/user-attachments/assets/ac91ff66-8971-490a-b6c3-c0a290b42fc8)
 
 
 
@@ -80,4 +88,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        The EDA Analysis is done successfully
